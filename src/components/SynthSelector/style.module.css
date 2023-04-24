@@ -1,0 +1,5 @@
+.child {
+    position: relative;
+    transition-property: left;
+}
+

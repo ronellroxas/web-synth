@@ -1,0 +1,8 @@
+.key {
+    transition: transform;
+    cursor: pointer;
+}
+
+.key:hover {
+    transform: scale(1.2);
+}
